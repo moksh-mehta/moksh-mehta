@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Moksh
+
+Applied Math & CS @ Brown 
+<!-- 📈 Building models at the intersection of data, markets, and theory. -->
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/yourname) • [Email](mailto:moksh_mehta@brown.edu) <!-- [Resume](https://link-to-resume.com) -->
 
 <!--
 **moksh-mehta/moksh-mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
