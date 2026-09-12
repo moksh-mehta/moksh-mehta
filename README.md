@@ -1,2 +1,2 @@
 # Hi, I'm Moksh
-Sc.B. Applied Mathematics–Computer Science from Brown University
+Sc.B. in Applied Mathematics–Computer Science from Brown University
